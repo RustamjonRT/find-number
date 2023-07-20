@@ -5,5 +5,5 @@ Created on Tue Nov 22 07:07:33 2022
 @author: Rustamjon
 """
 
-print("Hello Wordl")
+print("Hello World!!!")
 print("This is for finding number")
