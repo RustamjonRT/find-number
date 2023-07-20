@@ -6,3 +6,4 @@ Created on Tue Nov 22 07:07:33 2022
 """
 
 print("Hello Wordl")
+print("This is for finding number")
